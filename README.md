@@ -4,15 +4,27 @@ This project is a full-stack web application for Excel data analytics. The backe
 
 Backend
 Go to excel-analytics/backend
+
+
 Run:
+
+
 npm install
+
 node server.js
 
 
 
 Frontend
 Go to excel-analytics/frontend
+
+
 Run:
+
+
 npm install
+
 npm start
+
+
 Opens at http://localhost:3000
